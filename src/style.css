@@ -45,17 +45,17 @@
     font-size: 26px;
     color: #839bbf;
   }
-  li {
+  .clock {
     display: inline-block;
     list-style-type: none;
     padding: 1em;
   }    
-  li span {
+  .number {
     display: block;
     font-size: 160px;
     font-family: 'Coventry Garden NF', sans-serif;
   }
-  li img {
+  .separador {
     margin-bottom: 30px;
   }
   p {
