@@ -48,6 +48,7 @@
   .clock {
     padding: 0 80px;
     margin: 0;
+    max-width: 920px;
   }    
   .number {
     display: block;
