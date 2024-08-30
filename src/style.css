@@ -86,3 +86,11 @@
   .shop {
     padding: 6px 20px;
   }
+  .activities {
+    background: url(/src/images/Rectangle\ 4.svg);
+    background-size: cover;
+  }
+  .skyline {
+    background: url(/src/images/seattle\ skyline\ 1.png);
+    background-size: cover;
+  }
