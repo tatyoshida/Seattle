@@ -46,9 +46,8 @@
     color: #839bbf;
   }
   .clock {
-    display: inline-block;
-    list-style-type: none;
-    padding: 1em;
+    padding: 0 72px;
+    margin: 0;
   }    
   .number {
     display: block;
