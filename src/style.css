@@ -42,8 +42,8 @@
     font-family: mason-sans, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 32px;
-    color: #78a1df;
+    font-size: 26px;
+    color: #839bbf;
   }
   li {
     display: inline-block;
@@ -59,7 +59,7 @@
     margin-bottom: 30px;
   }
   p {
-    font-size: 32px;
+    font-size: 30px;
     font-family:'Metropolis', sans-serif;
   }
   .swag {
@@ -72,8 +72,9 @@
   h1 {
     font-family: 'Marmalede';
     color: #fff;
-    font-size: 60px;
+    font-size: 66px;
     padding-top: 36px;
+    margin-bottom: 10px;
   }
   .swag img {
     max-width: 95%;
