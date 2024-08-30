@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Metropolis';
+    src: url('/src/fonts/Metropolis Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+  @font-face {
+    font-family: 'Marmalede';
+    src: url('/src/fonts/Marmalede.otf') format('opentype');
+  }
+
+
+  body {
+    background-color: #09193A; 
+  }
+  .hero {
+    background:url(/src/images/fondo\ con\ rombos\ -\ seattle\ web.jpg) ;
+    background-size: cover;
+  }
+  .btn {
+    font-family: mason-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    padding: 6px 36px;
+    background: linear-gradient(0deg, #d9bd8a 0%, #e1c897 100%);
+    width: 146px;
+    border-radius: 0;
+  }
+  .store {
+    background: #c7c7c7;
+  }
+  .store:hover {
+    background-color: #c7c7c7;
+  }
+  .countdown {
+    box-sizing: border-box;
+    color: #fff;
+    padding: 0;
+  }
+  h4 {
+    font-family: mason-sans, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+    color: #78a1df;
+  }
+  li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 1em;
+  }    
+  li span {
+    display: block;
+    font-size: 160px;
+    font-family: 'Coventry Garden NF', sans-serif;
+  }
+  li img {
+    margin-bottom: 30px;
+  }
+  p {
+    font-size: 32px;
+    font-family:'Metropolis', sans-serif;
+  }
+  .swag {
+    background: url(/src/images/Isolation_Mode.svg);
+    background-size: cover;
+    background-color: #09193A;
+    background-blend-mode: overlay;
+    
+  }
+  h1 {
+    font-family: 'Marmalede';
+    color: #fff;
+    font-size: 60px;
+    padding-top: 36px;
+  }
+  .shop {
+    padding: 6px 30px;
+  }
