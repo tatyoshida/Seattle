@@ -75,6 +75,9 @@
     font-size: 60px;
     padding-top: 36px;
   }
+  .swag img {
+    max-width: 95%;
+  }
   .shop {
     padding: 6px 20px;
   }
