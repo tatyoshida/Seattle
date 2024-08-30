@@ -94,3 +94,6 @@
     background: url(/src/images/seattle\ skyline\ 1.png);
     background-size: cover;
   }
+  .cierre {
+    margin: 300px 0;
+  }
