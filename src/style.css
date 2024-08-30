@@ -46,16 +46,17 @@
     color: #839bbf;
   }
   .clock {
-    padding: 0 72px;
+    padding: 0 80px;
     margin: 0;
   }    
   .number {
     display: block;
     font-size: 160px;
     font-family: 'Coventry Garden NF', sans-serif;
+    
   }
   .separador {
-    margin-bottom: 30px;
+    padding: 40px 0 0;
   }
   p {
     font-size: 30px;
