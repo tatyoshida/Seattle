@@ -81,7 +81,7 @@
     margin-bottom: 10px;
   }
   .swag img {
-    max-width: 95%;
+    max-width: 85%;
   }
   .shop {
     padding: 6px 20px;
@@ -92,10 +92,19 @@
   }
   .llave img {
     max-width: 100%;
-    margin-bottom: -36px;
+    margin-bottom: -24px;
   }
   .activities {
     background: linear-gradient(0deg, #2d4e94 0%, #09193A 100%);
+  }
+  .activities h1 {
+    padding-top: 48px;
+  }
+  .activities h4 {
+    text-align: justify;
+  }
+  .activities img {
+    max-width: 85%;
   }
   .skyline {
     background: url(/src/images/seattle\ skyline\ 1.png);
