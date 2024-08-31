@@ -86,6 +86,14 @@
   .shop {
     padding: 6px 20px;
   }
+  .llave {
+    padding: 0 12px;
+    margin: 0 -36px;
+  }
+  .llave img {
+    max-width: 100%;
+    margin-bottom: -36px;
+  }
   .activities {
     background: linear-gradient(0deg, #2d4e94 0%, #09193A 100%);
   }
