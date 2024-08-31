@@ -106,10 +106,21 @@
   .activities img {
     max-width: 85%;
   }
+  .separador s {
+    padding: 0 12px;
+    margin: 0 -36px;
+  }
+  .separador s img {
+    max-width: 100%;
+    margin-bottom: -24px;
+  }
   .skyline {
     background: url(/src/images/seattle\ skyline\ 1.png);
     background-size: cover;
   }
   .cierre {
     margin: 300px 0;
+  }
+  .shoplink {
+    color: #fff;
   }
