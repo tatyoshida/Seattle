@@ -91,8 +91,7 @@
     background-size: cover;
   }
   .skyline {
-    background: url(/src/images/seattle\ skyline\ 1.png);
-    background-size: cover;
+    background: linear-gradient(0deg, #2d4e94 0%, #09193A 100%);
   }
   .cierre {
     margin: 300px 0;
