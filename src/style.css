@@ -87,11 +87,11 @@
     padding: 6px 20px;
   }
   .activities {
-    background: url(/src/images/Rectangle\ 4.svg);
-    background-size: cover;
+    background: linear-gradient(0deg, #2d4e94 0%, #09193A 100%);
   }
   .skyline {
-    background: linear-gradient(0deg, #2d4e94 0%, #09193A 100%);
+    background: url(/src/images/seattle\ skyline\ 1.png);
+    background-size: cover;
   }
   .cierre {
     margin: 300px 0;
