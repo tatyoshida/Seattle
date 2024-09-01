@@ -112,14 +112,14 @@
   }
   .s img {
     max-width: 100%;
-    margin-top: -24px;
+    margin-top: -32px;
   }
   .skyline {
-    background: url(/src/images/seattle\ skyline\ 1.png);
+    background: url(/src/images/seattle\ skyline.png);
     background-size: cover;
   }
-  .cierre {
-    margin: 300px 0;
+  .cierre h4 {
+    padding-bottom: 30px;
   }
   .shoplink {
     color: #fff;
