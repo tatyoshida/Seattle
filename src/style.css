@@ -117,7 +117,7 @@
   .skyline {
     background: url(/src/images/seattle\ skyline.png);
     background-size: cover;
-    background-position-x: center;
+    background-position: center;
   }
   .skyline h1 {
     padding-bottom: 12px;
@@ -128,16 +128,20 @@
     margin-top: -18px;
     color: #fff;
   }
+  .cierre {
+    padding: 72px 0 20px;
+  }
   .cierre a,
   .cierre p {
     font-family: 'mason-sans', sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 18px;
-    color: #fff;
+    color: #ffffff73;
   }
   .shoplink {
     text-decoration: none;
+    font-size: 14px;
   }
 
   
