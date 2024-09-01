@@ -77,6 +77,9 @@
   color: #fff;
   font-size: 20px;
   }
+  .hex {
+    max-width: 45%;
+  }
   .swag {
     background: url(/src/images/Isolation_Mode.svg);
     background-size: cover;
