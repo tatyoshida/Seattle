@@ -141,7 +141,7 @@
   }
   .cierre {
     padding: 72px 0 20px;
-    background: linear-gradient(0deg, #00000000 90%, #000000 0%);
+    background: linear-gradient(0deg, #00000000 0%, #000000 100%);
   }
   .cierre a,
   .cierre p {
