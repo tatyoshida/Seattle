@@ -114,10 +114,10 @@
   }
   .llave {
     padding: 0 12px;
-    margin: 0 -36px;
+    margin: 0;
   }
   .llave img {
-    max-width: 100%;
+    max-width: 105%;
     margin-bottom: -24px;
   }
   .activities {
@@ -134,10 +134,10 @@
   }
   .s {
     padding: 0 12px;
-    margin: 0 -36px;
+    margin: 0;
   }
   .s img {
-    max-width: 100%;
+    max-width: 105%;
     margin-top: -48px;
   }
   .skyline {
