@@ -118,8 +118,14 @@
     background: url(/src/images/seattle\ skyline.png);
     background-size: cover;
   }
+  .cierre h1 {
+    padding-bottom: 12px;
+  }
   .cierre h4 {
-    padding-bottom: 30px;
+    padding-bottom: 200px;
+    font-size: 36px;
+    margin-top: -18px;
+    color: #fff;
   }
   .shoplink {
     color: #fff;
