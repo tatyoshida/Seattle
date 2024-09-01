@@ -124,10 +124,10 @@
     background: linear-gradient(0deg, hsl(221, 30%, 41%) 0%, #09193A 100%);
   }
   .activities h1 {
-    padding-top: 48px;
+    padding-top: 66px;
   }
   .activities h4 {
-    padding: 0 90px;
+    padding: 0 90px 40px;
   }
   .activities img {
     max-width: 85%;
@@ -138,12 +138,12 @@
   }
   .s img {
     max-width: 100%;
-    margin-top: -32px;
+    margin-top: -50px;
   }
   .skyline {
     background: url(/src/images/seattle\ skyline.png);
     background-size: cover;
-    background-position: center;
+    background-position-x: center;
   }
   .skyline h1 {
     padding-bottom: 12px;
@@ -154,9 +154,12 @@
     margin-top: -18px;
     color: #fff;
   }
+  .final {
+    margin: 130px 0 0 20px;
+  }
   .cierre {
-    padding: 72px 0 20px;
-    background: linear-gradient(0deg, #00000000 0%, #000000 100%);
+    padding-bottom: 20px;
+    margin-top: 60px;
   }
   .cierre a,
   .cierre p {
