@@ -113,7 +113,7 @@
     padding: 6px 20px;
   }
   .llave {
-    padding: 0 12px;
+    padding: 0;
     margin: 0;
   }
   .llave img {
@@ -133,7 +133,7 @@
     max-width: 85%;
   }
   .s {
-    padding: 0 12px;
+    padding: 0;
     margin: 0;
   }
   .s img {
