@@ -74,6 +74,8 @@
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
+  color: #fff;
+  font-size: 20px;
   }
   .swag {
     background: url(/src/images/Isolation_Mode.svg);
