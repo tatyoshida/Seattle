@@ -178,6 +178,13 @@
   }
 
   @media(max-width: 600px) {
+    .buttons {
+      justify-content: center;
+      margin-bottom: 0;
+    }
+    .button {
+      width: fit-content;
+    }
     .clock {
       padding: 20px 20px 10px;
     }
