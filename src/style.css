@@ -177,10 +177,14 @@
     padding-bottom: 20px;
   }
   footer {
-    font-family: 'Marmalede', sans-serif;
+    font-family: 'Metropolis', sans-serif;
     color: #fff;
     font-size: 18px;
     padding-top: 36px;
+  }
+
+  @media(max-width: 600px) {
+
   }
 
   
