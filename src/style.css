@@ -176,15 +176,22 @@
     margin-top: 0;
     padding-bottom: 20px;
   }
-  footer {
-    font-family: 'Metropolis', sans-serif;
-    color: #fff;
-    font-size: 18px;
-    padding-top: 36px;
-  }
 
   @media(max-width: 600px) {
-
+    .clock {
+      padding: 8px 20px 0;
+    }
+    .number {
+      font-size: 90px;
+      width: 20%;
+    }
+    .separador {
+      width: fit-content;
+      padding-top: 20px;
+    }
+    .separador img {
+      width: 15px;
+    }
   }
 
   
