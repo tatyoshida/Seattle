@@ -244,6 +244,15 @@
     .logo {
       margin-bottom: 24px;
     }
+    .llave2 {
+      padding: 0;
+      margin: 0 -150px;
+    }
+    .llave2 img {
+      max-width: 100%;
+      margin-bottom: -24px;
+    }
+      
    
   }
 
