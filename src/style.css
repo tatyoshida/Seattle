@@ -72,6 +72,10 @@
   .right {
     margin-right: -74px;
   }
+  .sentinel h4,
+  .sentinel h1 {
+    padding-top: 48px;
+  }
   .hex {
     max-width: 45%;
   }
