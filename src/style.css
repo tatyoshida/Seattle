@@ -128,6 +128,7 @@
   }
   .activities {
     background: linear-gradient(0deg, hsl(221, 30%, 41%) 0%, #09193A 100%);
+    padding-bottom: 48px;
   }
   .activities h1 {
     padding-top: 66px;
