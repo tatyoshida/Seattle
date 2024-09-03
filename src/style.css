@@ -224,15 +224,11 @@
     p {
       font-size: 20px
     }
-    .will {
-      background: url(/src/images/sentinel\ r.png);
-    }
     .hex2 {
       margin: 24px 0 30px 0;
     }
     .hex2 img {
-      max-width: 80%;
-      
+      max-width: 80%; 
     }
     .sentinel h4,
     .sentinel h1 {
@@ -240,6 +236,9 @@
     }
     h6 {
       margin-top: 48px;
+    }
+    .stars2 {
+      max-width: 25%;
     }
    
   }
