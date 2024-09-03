@@ -224,17 +224,18 @@
     p {
       font-size: 20px
     }
+    .hex2 {
+      
+    }
+    .hex2 img {
+      max-width: 80%;
+      
+    }
     .sentinel h4,
     .sentinel h1 {
       padding: 0;
     }
-    .hex {
-      margin-top: -460px;
-    }
-    .hex img {
-      max-width: 100%;
-      
-    }
+   
   }
 
   
