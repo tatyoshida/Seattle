@@ -265,7 +265,13 @@
     .banner {
       padding-bottom: 0;
     }
-
+    .s img {
+      margin-top: -32px;
+    }
+    .final {
+      margin: 0;
+    }
+    
   }
 
   
