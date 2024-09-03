@@ -252,6 +252,9 @@
       max-width: 100%;
       margin-bottom: -24px;
     }
+    .activities {
+      padding-bottom: 24px;
+    }
     .activities h1 {
       font-size: 72px;
     }
