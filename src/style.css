@@ -234,11 +234,14 @@
     .sentinel h1 {
       padding: 0;
     }
+    .stars2 {
+      max-width: 25%;
+    }
     h6 {
       margin-top: 48px;
     }
-    .stars2 {
-      max-width: 25%;
+    .logo {
+      margin-bottom: 24px;
     }
    
   }
