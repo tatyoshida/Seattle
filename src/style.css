@@ -78,6 +78,8 @@
   }
   .hex {
     max-width: 45%;
+    padding-top: 48px;
+    margin-bottom: 48px;
   }
   h6 {
   font-family: "Josefin Sans", sans-serif;
@@ -225,6 +227,11 @@
     .sentinel h4,
     .sentinel h1 {
       padding: 0;
+    }
+    .hex {
+      max-width: 45%;
+      padding-top: 48px;
+      margin-bottom: 48px;
     }
   }
 
