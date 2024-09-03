@@ -249,14 +249,6 @@
     .logo {
       margin-bottom: 24px;
     }
-    .llave2 {
-      padding: 0;
-      margin: 0;
-    }
-    .llave2 img {
-      max-width: 100%;
-      margin-bottom: -24px;
-    }
     .activities {
       padding-bottom: 24px;
     }
@@ -273,7 +265,7 @@
     .banner {
       padding-bottom: 0;
     }
-    
+
   }
 
   
