@@ -136,6 +136,11 @@
   .activities h4 {
     padding: 0 90px 40px;
   }
+  .food,
+  .attractions,
+  .banner {
+    padding-bottom: 16px;
+  }
   .activities img {
     max-width: 85%;
   }
@@ -261,7 +266,14 @@
     .activities h4 {
       padding: 20px 50px;
     }
-   
+    .food,
+    .attractions {
+      padding-bottom: 24px;
+    }
+    .banner {
+      padding-bottom: 0;
+    }
+    
   }
 
   
