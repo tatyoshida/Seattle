@@ -187,6 +187,9 @@
   .shoplink a {
     text-decoration: none;
   }
+  .telegram i {
+    font-size: 30px;
+  }
   .res {
     margin-top: 0;
     padding-bottom: 20px;
@@ -296,9 +299,7 @@
     .shoplink,
     .telegram {
       width: max-content;
-    }
-
-    
+    } 
   }
 
   
