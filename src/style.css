@@ -66,11 +66,14 @@
     font-size: 30px;
     font-family:'Metropolis', sans-serif;
   }
-  .left {
-    margin-left: -74px;
+  .left img {
+    margin: 0;
   }
   .right {
-    margin-right: -74px;
+    padding-left: 90px;
+  }
+  .right img {
+    margin: 0;
   }
   .right2 {
     padding: 0;
