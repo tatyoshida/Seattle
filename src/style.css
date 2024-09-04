@@ -290,6 +290,9 @@
       font-size: 15px;
       padding: 36px 80px 0 80px;
     }
+    .icon {
+      padding: 0 80px;
+    }
     .shoplink,
     .telegram {
       width: max-content;
