@@ -261,6 +261,9 @@
     .logo {
       margin-bottom: 24px;
     }
+    .llave img {
+      margin-bottom: -6px;
+    }
     .activities {
       padding-bottom: 24px;
     }
