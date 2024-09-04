@@ -171,6 +171,7 @@
   }
   .cierre {
     margin-top: 60px;
+    justify-content: space-between;
   }
   .cierre a,
   .cierre p {
