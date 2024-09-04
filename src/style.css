@@ -120,7 +120,7 @@
   }
   .llave {
     padding: 0;
-    margin: 0 -36px;
+    margin: 0;
   }
   .llave img {
     max-width: 100%;
@@ -146,7 +146,7 @@
   }
   .s {
     padding: 0;
-    margin: 0 -36px;
+    margin: 0;
   }
   .s img {
     max-width: 100%;
@@ -178,11 +178,13 @@
     font-weight: 400;
     font-style: normal;
     font-size: 18px;
-    color: #ffffff73;
+    color: #fff;
   }
   .shoplink {
-    text-decoration: none;
     font-size: 14px;
+  }
+  .shoplink a {
+    text-decoration: none;
   }
   .res {
     margin-top: 0;
@@ -266,11 +268,32 @@
       padding-bottom: 0;
     }
     .s img {
-      margin-top: -32px;
+      margin-top: -30px;
+    }
+    .skyline h1 {
+      padding: 0;
+      font-size: 72px;
+    }
+    .skyline h4 {
+      padding-bottom: 100px;
+      font-size: 30px;
     }
     .final {
       margin: 0;
     }
+    .cierre {
+      margin-top: 40px;
+      justify-content: space-around;
+    }
+    .cierre p {
+      font-size: 15px;
+      padding: 36px 80px 0 80px;
+    }
+    .shoplink,
+    .telegram {
+      width: max-content;
+    }
+
     
   }
 
