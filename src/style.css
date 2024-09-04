@@ -72,6 +72,12 @@
   .right {
     margin-right: -74px;
   }
+  .right2 {
+    padding: 0;
+  }
+  .right2 img {
+    margin: -22px 0 0;
+  }
   .sentinel h4,
   .sentinel h1 {
     padding-top: 48px;
