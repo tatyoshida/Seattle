@@ -208,25 +208,7 @@
   }
 
   @media(max-width: 992px) {
-    .hex2 {
-      margin: 24px 0 30px 0;
-    }
-    .hex2 img {
-      max-width: 80%; 
-    }
-    .sentinel h4,
-    .sentinel h1 {
-      padding: 0;
-    }
-    .stars2 {
-      max-width: 25%;
-    }
-    h6 {
-      margin-top: 48px;
-    }
-    .logo {
-      margin-bottom: 24px;
-    }
+   
   }
   @media(max-width: 767px) {
     .buttons {
@@ -268,6 +250,25 @@
     }
     p {
       font-size: 20px
+    }
+    .hex2 {
+      margin: 24px 0 30px 0;
+    }
+    .hex2 img {
+      max-width: 80%; 
+    }
+    .sentinel h4,
+    .sentinel h1 {
+      padding: 0;
+    }
+    .stars2 {
+      max-width: 25%;
+    }
+    h6 {
+      margin-top: 48px;
+    }
+    .logo {
+      margin-bottom: 24px;
     }
     .llave img {
       margin-bottom: -6px;
