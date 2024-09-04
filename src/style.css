@@ -204,7 +204,7 @@
     padding-bottom: 20px;
   }
 
-  @media(max-width: 600px) {
+  @media(max-width: 767px) {
     .buttons {
       justify-content: center;
       margin-bottom: 0;
