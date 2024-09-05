@@ -21,7 +21,7 @@
   .btn {
     font-family: mason-sans, sans-serif;
     background: linear-gradient(0deg, #d9bd8a 0%, #e1c897 100%);
-    width: 240px;
+    width: 146px;
     border-radius: 0;
   }
   .store {
@@ -50,6 +50,7 @@
     display: block;
     font-size: 160px;
     font-family: 'Coventry Garden NF', sans-serif;
+    padding: 0;
   }
   .separador {
     padding: 40px 0 0;
@@ -213,6 +214,9 @@
       justify-content: center;
       margin-bottom: 0;
     }
+    .btn {
+      width: 240px;
+    }
     .button {
       width: fit-content;
     }
@@ -222,7 +226,6 @@
     .number {
       font-size: 90px;
       width: 20%;
-      padding: 0;
     }
     .separador {
       width: fit-content;
