@@ -290,6 +290,9 @@
     .banner {
       padding-bottom: 0;
     }
+    .activities img {
+      max-width: 100%;
+    }
     .s img {
       margin-top: -30px;
     }
