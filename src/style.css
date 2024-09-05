@@ -66,9 +66,6 @@
   .left img {
     margin: 0;
   }
-  .right {
-    padding: 0 0 0 62px;
-  }
   .right img {
     margin: 0;
   }
@@ -83,7 +80,7 @@
     padding-top: 48px;
   }
   .hex img {
-    max-width: 45%;
+    max-width: 90%;
     padding-top: 48px;
     margin-bottom: 48px;
   }
