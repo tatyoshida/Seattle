@@ -21,7 +21,7 @@
   .btn {
     font-family: mason-sans, sans-serif;
     background: linear-gradient(0deg, #d9bd8a 0%, #e1c897 100%);
-    width: 146px;
+    width: 240px;
     border-radius: 0;
   }
   .store {
@@ -212,7 +212,7 @@
       margin-bottom: 0;
     }
     .btn {
-      width: 240px;
+      width: 146px;
     }
     .button {
       width: fit-content;
