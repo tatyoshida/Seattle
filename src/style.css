@@ -281,7 +281,7 @@
       font-size: 72px;
     }
     .activities h4 {
-      padding: 20px 50px;
+      padding: 20px 0px;
     }
     .food,
     .attractions {
@@ -310,6 +310,9 @@
     .cierre {
       margin-top: 40px;
       justify-content: space-around;
+    }
+    .res {
+      margin-top: 0;
     }
     .cierre p {
       font-size: 15px;
