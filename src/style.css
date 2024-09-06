@@ -206,6 +206,10 @@
    .right {
     padding-left: 0;
    }
+   .signup,
+   .store {
+    width: 180px;
+   }
   }
   @media(max-width: 767px) {
     .buttons {
