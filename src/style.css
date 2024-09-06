@@ -212,7 +212,11 @@
    .store {
     width: 160px;
    }
+   .skyline {
+    background-position-y: 0;
   }
+  }
+  
   @media(max-width: 767px) {
     .buttons {
       justify-content: center;
