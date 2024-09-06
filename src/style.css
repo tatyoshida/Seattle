@@ -210,6 +210,9 @@
    .store {
     width: 180px;
    }
+   .button {
+    width: fit-content;
+  }
   }
   @media(max-width: 767px) {
     .buttons {
