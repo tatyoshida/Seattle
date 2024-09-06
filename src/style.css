@@ -187,11 +187,9 @@
   .icon {
     padding: 0 80px;
   }
-  .shoplink {
-    font-size: 14px;
-  }
   .shoplink a {
     text-decoration: none;
+    font-size: 14px;
   }
   .fa-telegram {
     font-size: 30px;
