@@ -208,11 +208,8 @@
    }
    .signup,
    .store {
-    width: 180px;
+    width: 160px;
    }
-   .button {
-    width: fit-content;
-  }
   }
   @media(max-width: 767px) {
     .buttons {
