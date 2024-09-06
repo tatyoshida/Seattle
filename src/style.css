@@ -157,6 +157,8 @@
     background: url(/src/images/seattle\ footer\ bg.png);
     background-size: cover;
     background-position-x: center;
+    background-position-y: -36px;
+    
   }
   .skyline h1 {
     padding-bottom: 0;
@@ -298,19 +300,22 @@
     .activities img {
       max-width: 100%;
     }
-    .s img {
-      margin-top: -30px;
+    .s2 img {
+      margin-top: -39px;
+    }
+    .skyline {
+      background-position-y: 0;
     }
     .skyline h1 {
       padding: 0;
       font-size: 72px;
     }
     .skyline h4 {
-      padding-bottom: 100px;
+      padding-bottom: 150px;
       font-size: 30px;
     }
     .final {
-      margin: 0;
+      margin-top: 30px;
     }
     .cierre {
       margin-top: 40px;
